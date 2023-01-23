@@ -4,3 +4,4 @@
 3. ponjatija ne imeju
 4. svet
 5. tenj slona
+Kakie novie voprosi?
